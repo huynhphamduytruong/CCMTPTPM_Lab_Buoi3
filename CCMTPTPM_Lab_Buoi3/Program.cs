@@ -11,6 +11,7 @@ namespace CCMTPTPM_Lab_Buoi3
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, Thegioi!");
 
             Console.ReadLine();
         }
